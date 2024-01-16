@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="dummy_country">
+        <item>Country 1</item>
+        <item>Country 2</item>
+        <!-- Add more countries as needed -->
+    </string-array>
+</resources>
